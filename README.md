@@ -1,65 +1,99 @@
-# 📊 Project Title
+# 👋 Hi, I'm Danish Ahmad Wani
 
-## 📌 Overview
-This project focuses on analyzing data using Python/SQL/Excel/Power BI to discover insights, trends, and patterns.  
-The analysis helps in better decision-making through data visualization and reporting.
+## 📊 Aspiring Data Analyst | SQL Enthusiast | Python Learner
+
+Welcome to my GitHub profile!  
+I am a passionate fresher Data Analyst from Jammu & Kashmir with a background in Business Administration. I enjoy working with data, solving problems, and turning raw information into meaningful insights.
+
+Currently, I am focused on building strong skills in:
+- Data Analysis
+- SQL
+- Python
+- Excel
+- Power BI
+- Business Understanding
 
 ---
 
-## 🚀 Technologies Used
+# 🚀 About Me
+
+🎓 Bachelor's Degree in Business Administration  
+📍 Srinagar, Jammu & Kashmir  
+💡 Interested in Data Analytics & Business Growth  
+📈 Passionate about learning new technologies and building real-world projects  
+
+I love exploring datasets, finding trends, and creating visualizations that help businesses make better decisions.
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Programming & Databases
+- SQL
 - Python
+
+## 📊 Data Analysis Libraries
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- SQL
+
+## 📈 Tools
 - Excel
 - Power BI
+- Jupyter Notebook
+- MySQL
 
 ---
 
-## 📂 Dataset
-The dataset used in this project contains information related to:
-- Sales
-- Customers
-- Products
-- Revenue
-- Business Performance
+# 📂 What You'll Find on My GitHub
 
-(Source: Kaggle / Company Data / Sample Dataset)
-
----
-
-## 🔍 Project Workflow
-1. Data Collection  
-2. Data Cleaning  
-3. Exploratory Data Analysis (EDA)  
-4. Data Visualization  
-5. Finding Insights  
-6. Final Conclusion
+✔️ Data Analysis Projects  
+✔️ SQL Practice Queries  
+✔️ Python Projects  
+✔️ Business Insights  
+✔️ Dashboards & Visualizations  
+✔️ Learning Journey & Experiments  
 
 ---
 
-## 📈 Key Insights
-- Identified top-performing products
-- Found customer purchasing patterns
-- Improved understanding of business trends
-- Visualized important KPIs using charts and dashboards
+# 📈 Current Goals
+
+- Improve advanced SQL skills
+- Master Power BI dashboards
+- Build strong portfolio projects
+- Learn real-world business analytics
+- Get internship/job opportunities in Data Analytics
 
 ---
 
-## 📊 Visualizations
-This repository includes:
-- Bar Charts
-- Pie Charts
-- Heatmaps
-- Line Graphs
-- Interactive Dashboards
+# 🌱 Currently Learning
+
+- Window Functions in SQL
+- Advanced Data Visualization
+- Business Intelligence
+- Data Storytelling
+- Real-world Analytics Projects
 
 ---
 
-## 🛠️ How to Run the Project
+# 🤝 Let's Connect
 
-### Clone the repository
-```bash
-git clone https://github.com/yourusername/project-name.git
+## 💼 LinkedIn
+www.linkedin.com/in/danish-wani-2a34a1361
+
+## 💻 GitHub
+https://github.com/danishwani121-ui
+
+## 📧 Email
+wanidanish1304@gmail.com
+
+---
+
+# ⭐ Quote I Believe In
+
+"Data is not just numbers — it tells the story behind every business decision."
+
+---
+
+Thanks for visiting my profile! 🚀
